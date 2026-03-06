@@ -1,4 +1,5 @@
-<img width="957" height="537" alt="image" src="https://github.com/user-attachments/assets/247b7439-bcdc-4303-b447-63238de54240" />
+<img width="1119" height="627" alt="image" src="https://github.com/user-attachments/assets/2acfbae4-6e9b-4870-87d5-539e1d168836" />
+
 📊 Paralympics Medal Performance Dashboard (Power BI)
 📌 Project Overview
 
